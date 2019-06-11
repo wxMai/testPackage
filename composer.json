@@ -1,5 +1,6 @@
 {
     "name": "test/package",
+    "type": "library",
     "authors": [
         {
             "name": "wxmai",
@@ -16,5 +17,6 @@
         "psr-4": {
             "TwTestPackageTests\\": "tests/"
         }
-    }
+    },
+    "description": "package"
 }
