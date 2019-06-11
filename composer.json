@@ -14,6 +14,7 @@
             "TwTestPackage\\": "src/"
         }
     },
+    "minimum-stability": "stable",
     "autoload-dev": {
         "psr-4": {
             "TwTestPackageTests\\": "tests/"
