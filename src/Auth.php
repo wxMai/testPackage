@@ -22,7 +22,7 @@ class Auth
             'uid' => 1,
             'name' => 'diablo',
             'email' => 'iluozhiqiang@gmail.com',
-            'version' => 'v1.0.0',
+            'version' => 'v1.0.1',
         ];
     }
     
