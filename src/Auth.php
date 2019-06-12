@@ -23,6 +23,7 @@ class Auth
             'name' => 'diablo',
             'email' => 'iluozhiqiang@gmail.com',
             'version' => 'v1.0.1',
+            'test' => 'test',
         ];
     }
     
